@@ -1,0 +1,63 @@
+Catégorie,Taches,Type,Qui,Estimation,Temps passé,Reste à faire,Avancement
+Global,Conception Architecture Microservices Crypto6,Conception,1978,120,110,10,91.67%
+Global,Définition Modèle Conceptuel Données,Conception,1629,90,85,5,94.44%
+Global,Design Logo et Identité Visuelle,Conception,2784,60,58,2,96.67%
+Global,Rédaction Cahier des Charges Détaillé,Gestion des tâches,1978,180,170,10,94.44%
+Sécurité,Système Authentification Multi-Facteur,Métier,1978,240,220,20,91.67%
+Backend,Configuration Projet Spring Boot,Configuration,1629,120,110,10,91.67%
+Backend,Implémentation Contrôleurs REST Utilisateurs,Métier,1978,180,165,15,91.67%
+Sécurité,Validation Email avec Token Unique,Sécurité,1978,150,140,10,93.33%
+Sécurité,Gestion Limitation Tentatives Connexion,Sécurité,1978,120,110,10,91.67%
+Portefeuille Crypto,Support Multi-Cryptomonnaies,Métier,1978,210,195,15,92.86%
+Portefeuille Crypto,Calcul Valorisation Temps Réel,Infrastructure,1978,180,170,10,94.44%
+Cours Cryptos,Système Mise à Jour Temps Réel,Infrastructure,3037,240,225,15,93.75%
+Frontend Web,Configuration Projet Vue.js,Configuration,2784,90,85,5,94.44%
+Frontend Web,Page Inscription et Connexion,Affichage,2784,120,110,10,91.67%
+Frontend Web,Page Profil Utilisateur,Affichage,2784,120,110,10,91.67%
+Frontend Web,Page Analyse Cryptomonnaies,Affichage,1978,180,165,15,91.67%
+Frontend Mobile,Configuration Projet Flutter,Configuration,1629,90,85,5,94.44%
+Frontend Mobile,Page Inscription et Connexion Mobile,Affichage,1629,120,110,10,91.67%
+Frontend Mobile,Page Portefeuille Crypto,Affichage,1629,180,170,10,94.44%
+Déploiement,Configuration Docker,Métier,1978,180,165,15,91.67%
+Déploiement,Pipeline CI/CD GitHub Actions,Métier,1978,240,225,15,93.75%
+Sécurité Infrastructure,Durcissement Sécurité,Sécurité,1978,210,195,15,92.86%
+Tests,Tests Unitaires Backend,Test,1978,240,230,10,95.83%
+Tests,Tests Unitaires Frontend Web,Test,1978,180,170,10,94.44%
+Tests,Tests Unitaires Frontend Mobile,Test,1978,180,170,10,94.44%
+Authentification,Gestion Tokens JWT,Sécurité,1978,180,170,10,94.44%
+Authentification,Support OAuth2,Sécurité,1978,120,110,10,91.67%
+Portefeuille Crypto,Historique Transactions,Métier,1978,150,140,10,93.33%
+Portefeuille Crypto,Alertes Personnalisables,Métier,1978,120,110,10,91.67%
+Cours Cryptos,Agrégation Multi-Sources,Infrastructure,3037,180,170,10,94.44%
+Cours Cryptos,Stockage Historique,Infrastructure,3037,150,140,10,93.33%
+Frontend Web,Gestion État Pinia,Frontend,2784,90,85,5,94.44%
+Frontend Mobile,Gestion État Provider,Mobile,1629,90,85,5,94.44%
+Frontend Mobile,Support Offline,Mobile,1629,120,110,10,91.67%
+Déploiement,Configuration Environnements,Métier,1978,120,110,10,91.67%
+Déploiement,Scripts Déploiement Mobile,Métier,1978,180,170,10,94.44%
+Sécurité Infrastructure,Analyse Vulnérabilités,Sécurité,1629,180,170,10,94.44%
+Documentation,Swagger/OpenAPI,Documentation,1978,120,0,120,0.00%
+Documentation,Guide,Documentation,1978,180,170,10,94.44%
+Analyse Finale,Revue Performance,Conception,1978,120,110,10,91.67%
+Analyse Finale,Optimisation Coûts,Conception,1978,90,85,5,94.44%
+Gestion Commissions,Liste Commissions Actuelles,Affichage,1978,60,55,5,91.67%
+Gestion Commissions,Calcul Commissions,Métier,1978,90,85,5,94.44%
+Gestion Commissions,Intégration Système,Intégration,1978,60,55,5,91.67%
+Notifications,Système Notifications Push,Infrastructure,1629,150,140,10,93.33%
+Notifications,Configuration Web Push,Frontend,1629,90,85,5,94.44%
+Notifications,Configuration Mobile Push,Mobile,1929,90,85,5,94.44%
+Sécurité Données,Chiffrement Données Sensibles,Sécurité,1978,180,170,10,94.44%
+Performance,Optimisation Requêtes,Infrastructure,1978,150,140,10,93.33%
+Performance,Mise en Cache Distribuée,Infrastructure,1978,120,110,10,91.67%
+Analyse Données,Reporting Crypto,Métier,1978,180,170,10,94.44%
+Analyse Données,Tableaux de Bord,Affichage,1978,120,110,10,91.67%
+Intégration APIs,Connexion CoinGecko,Infrastructure,3037,90,85,5,94.44%
+Intégration APIs,Connexion CoinMarketCap,Infrastructure,1978,90,85,5,94.44%
+Simulation Trading,Modèle Économique,Métier,1978,120,110,10,91.67%
+Simulation Trading,Interface Utilisateur,Affichage,1978,90,85,5,94.44%
+Validation Transactions,Processus Validation Email,Sécurité,1978,120,110,10,91.67%
+Validation Transactions,Validation Multi-Étapes,Métier,3037,180,170,10,94.44%
+Gestion Risques,Détection Transactions Suspectes,Sécurité,1978,210,200,10,95.24%
+Gestion Risques,Système d'Alerte,Infrastructure,1978,150,140,10,93.33%
+Accessibilité Web,Conformité WCAG,Frontend,2784,90,85,5,94.44%
+Accessibilité Mobile,Design Adaptatif,Mobile,1629,120,110,10,91.67%
